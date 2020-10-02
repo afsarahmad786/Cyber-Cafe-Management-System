@@ -1,1 +1,2 @@
 # Cyber-Cafe-Management-System
+The main objective of the Cyber Cafe Management System is to manage the details of  ID Proof, Charges, Customers, Downloads, Usage. It manages all the information about  ID Proof, Computers,  Usage,  ID Proof. The purpose of the project is to build an application program to reduce the manual work for managing the  ID Proof,  Charges, Computers,  Customers. It tracks all the details about the  Customers, Downloads, Usage.
